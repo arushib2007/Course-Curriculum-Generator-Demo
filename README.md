@@ -17,7 +17,7 @@ This is a web application that generates and grades quizzes based on selected ch
 
 ## Prerequisites
 
-Before running this application locally, ensure you have the following installed:
+Before running this application locally, make sure that you have the following installed:
 
 - Node.js and npm (Node Package Manager)
 - Python 3
