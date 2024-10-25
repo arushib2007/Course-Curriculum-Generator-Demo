@@ -1,0 +1,32 @@
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore environment folders (virtualenv, pipenv, etc.)
+venv/
+env/
+.penv/
+
+# Ignore Flask cache and log files
+__pycache__/
+*.py[cod]
+*.log
+
+# Ignore node_modules directory in the React project
+frontend/node_modules/
+
+# Ignore any built or compiled files in the React project
+frontend/build/
+frontend/dist/
+
+# Ignore any environment configuration files (e.g., .env)
+*.env
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore any local configuration files
+*.local
+front-end
